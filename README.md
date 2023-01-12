@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-![RyuJinHyeok's github stats](https://github-readme-stats.vercel.app/api?username=RyuJinHyeok&show_icons=true&theme=dark)
+![RyuJinHyeok's github stats](https://github-readme-stats.vercel.app/api?username=RyuJinHyeok&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RyuJinHyeok&layout=compact&theme=dark) [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ryujin0402)](https://solved.ac/ryujin0402)
 
