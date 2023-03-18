@@ -5,7 +5,7 @@
 I am a student at Seoul National Univ. of Science and Technology (SeoulTech).
 
 Major: Computer Science & Engineering (CSE)<br>
-minor: Artificial Intelligence
+Double Major: Artificial Intelligence (AI)
 
 <br>
 
